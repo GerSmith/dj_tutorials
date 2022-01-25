@@ -3,3 +3,5 @@ autopep8
 pydocstyle
 pycodestyle
 pylint
+# сам джанго
+Django
